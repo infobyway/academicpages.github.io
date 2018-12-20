@@ -1,16 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "INST 201, Spring 2018"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate Course"
+permalink: /teaching/2018-spring-teaching
+venue: "University of Maryland, College of Information Studies"
+date: 2018-01-01
+location: "College Park, MD"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+INST 201
 ======
 
 Heading 2
